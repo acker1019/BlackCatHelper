@@ -1,7 +1,7 @@
 # BlackCatHelper
 A materials calculator and manager designed for the game "Black Cat" in the very early stage.
 The game now got its own materials manager system.
-Although it is useless now, it's the memory of my school days.
+Although it is useless now, it's the memory of my school days in 2014.
 
 ![Materials Selector](img/select.jpg "Materials Selector")
 
